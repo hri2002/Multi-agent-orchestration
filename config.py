@@ -1,0 +1,10 @@
+LLM_CONFIG = {
+    "config_list": [
+        {
+            "model": "llama3.1:8b",
+            "base_url": "http://localhost:11434/v1",
+            "api_key": "ollama",
+        }
+    ],
+    "temperature": 0.2
+}

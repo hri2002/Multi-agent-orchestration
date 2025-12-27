@@ -1,0 +1,4 @@
+autogen
+streamlit
+pytest
+requests
